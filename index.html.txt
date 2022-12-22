@@ -1,0 +1,51 @@
+<!DOCTYPE 
+html>
+<head lang="pt-br">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Clinica Odontológica</title>
+</head>
+<body>
+    <header>
+        <nav class="menu">
+            <a href="" class="logo">SMILE  FIRST</a>
+
+            <ul>
+                <li><a href="" class="ativo">Home</a></li>
+                <li><a href="#serviços">Serviços</a></li>
+                <li><a href="">Sobre</a></li>
+                <li><a href="">Contato</a></li>
+            </ul>
+        </nav><!--menu-->
+
+        <section class="principal">
+<h2>Clinica odontológica-Smile First</h2>
+   <div class="links">
+<a href="">Marque já sua consulta!</a>
+  </div>
+        </section><!--principal-->
+    </header>
+
+    <h2> <a name="serviços">Nossos serviços</a> </h2>
+    <hr>
+    _
+    <p>  <b>Clínico Geral</b>
+
+        Possui foco na prevenção, 
+        diagnóstico e tratamento de várias condições relacionadas aos dentes e gengivas como por exemplo, caries e fraturas.</p>
+        _
+
+        <p><b>Periodontia</b>
+
+         Especialidade responsável pelo cuidado com a sustentação dos dentes, focando na gengiva,
+         ligamento periodontal e osso. Indicado em tratamentos como: gengivite, periodontite, abscessos, infecções e mais...</p>
+         _
+
+         <p><b>Dentistica</b>
+
+            Área que atua principalmente na parte estética dos dentes e também auxilia na solução
+            de problemas funcionais e estruturais realizando restaurações, clareamento, lentes de contato e facetas.</p>
+            _
+</body>
+</html>
